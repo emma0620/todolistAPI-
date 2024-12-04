@@ -1,7 +1,7 @@
 
 # RESTful API Todo List 練習
 
-這是一個基於 **Python Django** 與 **Django REST Framework (DRF)** 的練習專案，用於構建一個簡單的 RESTful API 來管理 Todo List。目的是熟悉 RESTful API 的基礎概念和操作，包括 CRUD（Create, Read, Update, Delete）功能。
+這是一個基於 **Python Django** 與 **Django REST Framework (DRF)** 的練習，用於構建一個簡單的 RESTful API 來管理 Todo List。目的是熟悉 RESTful API 的基礎概念和操作，包括 CRUD（Create, Read, Update, Delete）功能。
 
 ---
 
